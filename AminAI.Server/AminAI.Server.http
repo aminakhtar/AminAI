@@ -1,0 +1,6 @@
+@AminAI.Server_HostAddress = http://localhost:5094
+
+GET {{AminAI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:64929",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Dev\\AminAI\\AminAIFolder\\AminAI\\AminAI.Server\\..\\aminai.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
